@@ -1,0 +1,45 @@
+Customer ID : anu54663
+Customer Type : Warranty
+Name : ashdifljldf
+Address : sfdnl,asdnf lkasfj
+Mobile No : 56745419874654196
+Dete of Joining : 1/Jan/2001
+E-mail : anu@gmail.com
+Description : tjsodks;flkjs;f
+
+Customer ID : fsdfsdaf
+Customer Type : Guarantee
+Name : fdsafasdfasdf
+Address : dfsafsdf
+Mobile No : dsfafs
+Dete of Joining : 1/Jan/2001
+E-mail : dsfasdfsaf
+Description : dfsdfdsfg
+
+Customer ID : 
+Customer Type : Warranty
+Name : 
+Address : 
+Mobile No : 
+Dete of Joining : 1/Jan/2001
+E-mail : 
+Description : 
+
+Customer ID : sdsf
+Customer Type : Guarantee
+Name : fdfd
+Address : fdfdfdfsddsfsf
+Mobile No : 4454654
+Dete of Joining : 1/Jan/2001
+E-mail : fsdfsdffdsf
+Description : dffdf
+
+Customer ID : 3234234
+Customer Type : Guarantee
+Name : marjan
+Address : mejortila
+Mobile No : 54445457454154
+Dete of Joining : 1/Jan/2001
+E-mail : marjan@gmail
+Description : dffsdf
+
